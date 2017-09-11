@@ -1,0 +1,179 @@
+<resources>
+    <string name="app_name">FinalProjHimmatSinghItp341</string>
+    <!-- Strings related to login -->
+    <string name="prompt_username">Username</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="action_register">Create Account</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="hint_user_id">User ID</string>
+    <string name="get_custom_token">Get Token</string>
+    <string name="sign_in">Sign In</string>
+    <string name="create_account">Create Account</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="loading">Loading…</string>
+    <string name="custom_token">Custom Token</string>
+    <string name="signed_out">Signed Out</string>
+    <string name="token_null">Token: null</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="desc_firebase_lockup">Firebase logo and name</string>
+    <string name="auth_failed">Authentication failed</string>
+
+    <string-array name="religions">
+        <item>Christianity</item>
+        <item>Islam</item>
+        <item>Hinduism</item>
+        <item>Buddhism</item>
+        <item>Sikhism</item>
+    </string-array>
+
+    <string-array name="origins">
+        <item>Christianity is an Abrahamic monotheistic religion based on the life and teachings of Jesus Christ, who serves as the focal point for the religion. It is the worlds largest religion, with over 2.4 billion followers, or 33% of the global population, known as Christians.</item>
+        <item>Islam is an Abrahamic monotheistic religion which professes that there is only one and incomparable God (Allah) and that Muhammad is the last messenger of God. It is the worlds second-largest religion and the fastest-growing major religion in the world, with over 1.7 billion followers or 23% of the global population, known as Muslims.</item>
+        <item>Hinduism is a religion, the 3rd largest religion, found most notably in India and Nepal. Hinduism has been called the oldest religion in the world, and some practitioners and scholars refer to it as Sanātana Dharma, "the eternal law," or the "eternal way," beyond human origins. Scholars regard Hinduism as a fusion or synthesis of various Indian cultures and traditions, with diverse roots and no founder.</item>
+        <item>Buddhism is an Indian religion and dharma that encompasses a variety of traditions, beliefs and spiritual practices largely based on teachings attributed to the Buddha. Buddhism originated in Ancient India sometime between the 6th and 4th centuries BCE, from where it spread through much of Asia, whereafter it declined in India during the middle ages.</item>
+        <item>Sikhism (Sikh, meaning a "disciple", or a "learner"), is a panentheistic religion that originated in the Punjab region of the Indian subcontinent during the 15th century. It is one of the youngest of the major world religions and the 5th largest religion. </item>
+    </string-array>
+
+    <string-array name="prophets">
+        <item>Jesus Christ</item>
+        <item>Muhammad</item>
+        <item>(Unknown) Closest: Krishna</item>
+        <item>Buddha (Siddhartha Gautama)</item>
+        <item>(10 Gurus): Guru Nanak, Guru Angad Dev, Guru Amar Das, Guru Ram Das, Guru Arjan Dev, Guru Har Govind, Guru Har Rai, Guru Har Krishan, Guru Teg Bahadar, Guru Gobind Singh Ji</item>
+    </string-array>
+    <string-array name="belief">
+        <item>Monotheistic (Holy Trinity: Father, Son, and Holy Spirit)</item>
+        <item>Monotheistic (Allah)</item>
+        <item>Polytheistic (Brahman: 1 creator, created other gods)</item>
+        <item>None (Seek state of spiritual bliss a.k.a "Nirvana")</item>
+        <item>Monotheistic (Waheguru)</item>
+    </string-array>
+    <string-array name="book">
+        <item>Bible</item>
+        <item>Quran</item>
+        <item>Vedas, Ramayana, Mahabharata, Puranas</item>
+        <item>Tripitaka</item>
+        <item>Guru Granth Sahib</item>
+    </string-array>
+    <string-array name="christ_friends">
+        <item>John</item>
+        <item>Allen</item>
+        <item>Young Lee</item>
+        <item>Jonny</item>
+        <item>Ago</item>
+    </string-array>
+    <string-array name="islam_friends">
+        <item>Mohammed</item>
+        <item>Malik</item>
+        <item>Kwabz</item>
+        <item>Aleen</item>
+        <item>Ali</item>
+    </string-array>
+    <string-array name="hindu_friends">
+        <item>Arjan</item>
+        <item>Raj</item>
+        <item>Ram</item>
+        <item>Sita</item>
+        <item>Rahul</item>
+    </string-array>
+    <string-array name="bud_friends">
+        <item>Bryant</item>
+        <item>Zack</item>
+        <item>Alex</item>
+        <item>Nepal</item>
+        <item>India</item>
+    </string-array>
+    <string-array name="sikh_friends">
+        <item>Gurnaaz</item>
+        <item>Ikjot</item>
+        <item>Manpreet</item>
+        <item>Mohit</item>
+        <item>Gurleena</item>
+    </string-array>
+
+    <string name="about_app">
+        Cultural Safari is a mobile application that aims to bring to light the different religions around your area. This application allows the user to not only read about major religions, but also be able to message friends and see nearby temples making the experience unique, fun, and inviting. Come join us on our expedition across time and space to bring understanding right to your fingertips.</string>
+
+    <string-array name="urls">
+        <item>christianity</item>
+        <item>islam</item>
+        <item>hinduism</item>
+        <item>buddhism</item>
+        <item>sikhism</item>
+    </string-array>
+
+    <string-array name="states">
+
+        <item>Select State</item>
+        <item>Alabama</item>
+        <item>Alaska</item>
+        <item>American Samoa</item>
+        <item>Arizona</item>
+        <item>Arkansas</item>
+        <item>California</item>
+        <item>Colorado</item>
+        <item>Connecticut</item>
+        <item>Delaware</item>
+        <item>District of Columbia</item>
+        <item>Florida</item>
+        <item>Georgia</item>
+        <item>Guam</item>
+        <item>Hawaii</item>
+        <item>Idaho</item>
+        <item>Illinois</item>
+        <item>Indiana</item>
+        <item>Iowa</item>
+        <item>Kansas</item>
+        <item>Kentucky</item>
+        <item>Louisiana</item>
+        <item>Maine</item>
+        <item>Maryland</item>
+        <item>Massachusetts</item>
+        <item>Michigan</item>
+        <item>Minnesota</item>
+        <item>Mississippi</item>
+        <item>Missouri</item>
+        <item>Montana</item>
+        <item>Nebraska</item>
+        <item>Nevada</item>
+        <item>New Hampshire</item>
+        <item>New Jersey</item>
+        <item>New Mexico</item>
+        <item>New York</item>
+        <item>North Carolina</item>
+        <item>North Dakota</item>
+        <item>Northern Marianas Islands</item>
+        <item>Ohio</item>
+        <item>Oklahoma</item>
+        <item>Oregon</item>
+        <item>Pennsylvania</item>
+        <item>Puerto Rico</item>
+        <item>Rhode Island</item>
+        <item>South Carolina</item>
+        <item>South Dakota</item>
+        <item>Tennessee</item>
+        <item>Texas</item>
+        <item>Utah</item>
+        <item>Vermont</item>
+        <item>Virginia</item>
+        <item>Virgin Islands</item>
+        <item>Washington</item>
+        <item>West Virginia</item>
+        <item>Wisconsin</item>
+        <item>Wyoming</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
